@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.card:hover img {
+    background: #3e5b56;
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    padding: 14px;
+    overflow: inherit;
+    border: 9px solid #eae5d8;
+    transition-duration: 1s;
+}
+.card img{
+    transition-duration: 1s;
+}
